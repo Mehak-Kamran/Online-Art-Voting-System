@@ -1,1 +1,5 @@
-# Online-Art-Voting-System
+- Independently developed a dynamic web-based application serving as an online art voting system, enabling users to view and vote on various artworks.
+- Utilized HTML, CSS, and JavaScript to create an engaging and user-friendly front-end interface.
+- Implemented PHP for the back-end development, handling user authentication, data processing, and interaction with the database.
+- Integrated SQL to manage the relational database, storing and retrieving user information, artwork details, and voting data.
+- Ensured seamless integration of front-end and back-end components, resulting in a fully functional and visually appealing online art voting system.
