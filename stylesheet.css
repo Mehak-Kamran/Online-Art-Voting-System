@@ -1,0 +1,237 @@
+input {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+select {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#upload {
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px solid transparent ;
+}
+
+
+
+#loginSection {
+  
+  width: 350px; 
+  background-color: #f8f3ed;
+  padding: 11px;
+  margin-top: 18%;
+  margin-left: 10%;
+  height: 340;
+  border-radius: 10px;
+  
+  
+}
+
+#loginSection input[type=number],input[type=password],input[type=role],select{
+    border: none;
+    border-bottom: 1px solid #13a796;
+    background-color: transparent;
+    outline: none;
+    border-radius: 5px;
+    width: 70%;
+    box-shadow: none;
+
+}
+
+#loginbody {
+  
+background-color: #ffffff;
+background-image: url("../image/cover.png");
+background-size: cover;
+
+  
+}
+  
+
+
+#loginbtn {
+  padding: 5px;
+  font-size: 15px;
+  background-color: #13a796;
+  color: white;
+  border-radius: 5px;
+  width: 70%;
+  border-radius: 20px;
+  border: none;
+}
+
+#reglink {
+  padding: 5px;
+  font-size: 15px;
+  background-color: #3498db;
+  color: #13a796;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+a {
+  color: #13a796;
+}
+
+#mainSection {
+  padding: 10px;
+}
+
+#profileSection {
+  
+
+  width: 20%;
+  float: left;
+  border: 2px solid transparent;
+  background-color: rgb(199, 194, 194);
+  padding: 20px;
+  border-radius: 7%;
+  border: 5px solid #13a796;
+}
+
+#groupSection {
+  width: 70%;
+  float: right;
+  padding-right: 20px;
+  border-radius: 2%;
+  padding-top: 5%;
+  
+
+}
+#groupSection img{
+  border-radius: 10px;
+  height: 400;
+  width: 350;
+  border:2px solid #13a796;
+  margin-bottom: 50px;
+  
+  
+}
+
+
+#logout-button {
+  float: right;
+  margin-right: 10px;
+  margin-top: 10px;
+  
+  
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 15px;
+  background-color: #13a796;
+  color: white;
+  width: 7%;
+  border-radius: 20px;
+  border: none;
+}
+
+
+#regform{
+  width: 50%;
+  margin: 2%;
+  border: 1px solid transparent;
+  background-color: #f8f3ed;
+
+  border-radius: 20px;
+  padding-left:3px;
+  padding-right: 3px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  
+}
+  
+
+#regform input[type=password],input[type=text], input[type=number]{
+
+  width: 20%;
+  margin: 0.6%;
+  background-color: transparent;
+  border: none;
+    border-bottom: 1px solid #13a796;
+    
+    outline: none;
+    border-radius: 5px;
+    
+}
+    
+
+    
+  
+
+
+#reg{
+
+  padding: 5px;
+  font-size: 15px;
+  background-color: #13a796;
+  color: white;
+  border-radius: 5px;
+  width: 40%;
+  border-radius: 20px;
+  border: none;
+}
+
+#upload input[type=file],select{
+  background-color: #ffffff;
+  border: none;
+  border-bottom: 1px solid #13a796;
+  
+  
+    outline: none;
+    border-radius: 5px;
+}
+#regbody{
+  background-color: #ffffff;
+background-image: url("../image/cover.png");
+background-size: cover;
+  
+
+}
+
+#dbbg{
+  background-color: #ffffff;
+background-image: url("../image/dashcover.jpeg");
+background-size: cover;
+  
+
+}
+#grpsec{
+  padding-bottom: 350px;
+  
+
+}
+
+#eachgrp{
+  
+  padding: 10px 10px 10px 20px;
+  background-color: rgb(199, 194, 194);
+  border-top: 5px solid #13a796;
+  margin-bottom: 40px;
+  border-radius: 10px;
+  color: black;
+  text-align: left;
+  
+   
+}
+
+ input[type=file]{
+  display: none;
+  
+   
+}
+
+#label{
+  padding: 15px;
+  font-size: 15px;
+  background-color: #13a796;
+  color: white ;
+  font-weight: bolder;
+  width: 100%;
+  border-radius: 10px;
+  border: none;
+
+   
+}
+
